@@ -11,7 +11,7 @@ This repository is split into **two independent applications** plus shared infra
 | Folder | What it is | README |
 |--------|-----------|--------|
 | [`backend/`](backend/) | Python **FastAPI** API + Azure services + background workers | [backend/README.md](backend/README.md) |
-| [`architecture-review-ui/`](frontend/) | **React 19 + TypeScript** single-page app | [frontend/README.md](frontend/README.md) |
+| [`frontend/`](frontend/) | **React 19 + TypeScript** single-page app | [frontend/README.md](frontend/README.md) |
 
 ### Why the split?
 
